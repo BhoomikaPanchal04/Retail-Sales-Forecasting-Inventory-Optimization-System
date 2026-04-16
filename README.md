@@ -3,6 +3,27 @@
 ## 📌 Overview
 This project builds an end-to-end retail analytics system that forecasts product demand and optimizes inventory decisions using machine learning and operations research techniques.
 
+## 🖥️ Streamlit Dashboard Preview
+
+<p align="center">
+  <img src="images/dashboard_1.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="images/dashboard_2.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="images/dashboard_3.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="images/dashboard_4.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="images/dashboard_5.png" width="800"/>
+</p>
 ---
 
 ## 🎯 Problem Statement
