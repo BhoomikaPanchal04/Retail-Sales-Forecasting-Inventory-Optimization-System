@@ -1,0 +1,16 @@
+columns = [
+    "date",
+    "store_id",
+    "item_id",
+    "qty_sold",
+    "price",
+    "discount_pct",
+    "on_promo",
+    "stockout_flag",
+    "stock_on_hand",
+    "lead_time_days",
+    "unit_cost",
+    "holding_cost_rate"
+]
+df = df[df["stockout_flag"] == 0]
+
