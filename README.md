@@ -87,3 +87,11 @@ streamlit run app/app.py
 Synthetic retail dataset
 Includes seasonality, promotions, and stockouts
 Multi-store, multi-product simulation
+
+## 📊 Project Screenshots
+
+### Dashboard
+![Dashboard](images/dashboard.png)
+
+### Output
+![Output](images/output.png)
